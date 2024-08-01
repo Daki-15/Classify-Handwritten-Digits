@@ -114,6 +114,12 @@ def load_model(MODEL_PATH):
   return tf.keras.models.load_model(MODEL_PATH)
 ```
 
+## Web app look like this
+
+![](./img/1.PNG)
+
+![](./img/2.PNG)
+
 ## Conclusion
 
 This notebook provides a comprehensive guide to building a neural network model for the MNIST dataset, including steps for loading data, training the model, making predictions, and saving/loading the model. Use the provided functions and modify them as needed for your own experiments and projects.
