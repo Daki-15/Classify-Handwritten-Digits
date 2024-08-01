@@ -105,6 +105,8 @@ def save_model(model_to_save):
   model_to_save.save(f"{MODEL_PATH}/model--{datetime.now().strftime('%m:%d:%y, %H:%M')}_{NUM_IMGAGES}_images.h5")
 ```
 
+model link: https://drive.google.com/file/d/1-MTqYD1Qk_yobEtn3tk86qZq3va-95vU/view?usp=drive_link
+
 ## Loading the Model
 
 Function to load a saved model from a specified path.
